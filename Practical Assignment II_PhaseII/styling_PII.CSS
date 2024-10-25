@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,7 +13,7 @@ a {
     text-decoration: none;
 }
 
-/* Header Styles */
+
 header {
     background-color: #1e1e2d;
     padding: 10px 0;
@@ -31,7 +31,7 @@ nav ul li {
     display: inline-block;
 }
 
-/* Hero Section */
+
 .hero {
     display: flex;
     align-items: center;
@@ -59,19 +59,19 @@ nav ul li {
     box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.7);
 }
 
-/* Social Media Icons */
+
 .social-icons a {
     margin: 0 10px;
     text-decoration: none;
-    color: white; /* Icon color */
-    font-size: 24px; /* Icon size */
+    color: white;
+    font-size: 24px; 
 }
 
 .social-icons a:hover {
-    color: #00ffff; /* Hover color */
+    color: #00ffff;
 }
 
-/* About Section */
+
 #about {
     padding: 50px 20px;
     background-color: #2e2e3e;
@@ -93,7 +93,7 @@ nav ul li {
     max-width: 50%;
 }
 
-/* Services Section */
+
 #services {
     padding: 50px 20px;
 }
@@ -101,8 +101,8 @@ nav ul li {
 .services-container {
     display: flex;
     justify-content: space-between;
-    gap: 10px; /* Adds space between service items */
-    padding: 10px; /* Adds space inside the container */
+    gap: 10px; 
+    padding: 10px; 
 }
 
 .service-card {
@@ -113,7 +113,7 @@ nav ul li {
     text-align: center;
 }
 
-/* Projects Section */
+
 #projects {
     padding: 50px 20px;
 }
@@ -127,7 +127,7 @@ nav ul li {
     width: 300px;
 }
 
-/* Contact Section */
+
 #contact {
     padding: 50px 20px;
 }
@@ -157,7 +157,7 @@ nav ul li {
     cursor: pointer;
 }
 
-/* Footer Section */
+
 footer {
     text-align: center;
     padding: 20px;
