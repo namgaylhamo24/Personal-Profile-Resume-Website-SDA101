@@ -24,5 +24,7 @@ I improved my knowledge of **web performance** by optimizing images to make them
 
 2. **Spacing in Services Section**: I also had trouble with spacing between the service cards; it looked too cramped on smaller screens. I addressed this by applying Flexbox properties like `justify-content: space-around` and adjusting the margins for consistent spacing.
 
+3. **Importing Icons**: I faced a challenge while styling the icons and adding hover color effects in CSS. Initially, I forgot to link the Font Awesome CDN, so the icons weren’t appearing on the webpage. To solve this, I consulted friends who were familiar with the issue and searched online for a solution.
+
 I learned how important it is to test designs on different screen sizes and browsers early on. This experience has made me more confident in handling similar problems in the future and improved my skills with CSS layouts and responsive design.
 
